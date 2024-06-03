@@ -2,9 +2,9 @@
 
 Questo repository presenta un programma in python per generare spettrogrammi audio in formato MP4. 
 
-Il codice presente in questo repository è stato scritto durante le riprese del video [**CA-24-012**](https://youtu.be/XgYWuYZwp3o) del canale YouTube [AFK](https://www.youtube.it/@valerio_afk).
+Il codice presente in questo repository è stato scritto durante le riprese del video [**CA-24-012**](https://youtu.be/ZNtQMFCZl04) del canale YouTube [AFK](https://www.youtube.it/@valerio_afk).
 
-📹 [Link al video](https://youtu.be/XgYWuYZwp3o)
+📹 [Link al video](https://youtu.be/ZNtQMFCZl04)
 
 # Contatti
 
