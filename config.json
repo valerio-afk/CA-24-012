@@ -1,0 +1,37 @@
+{
+    'width': 3040,
+    'max_height': 1000,
+    'bins' : 80,
+    'margin': 5,
+    'fps': 25,
+    'smooth':2,
+//     'renderer': {
+//         'name': 'led',
+//         'args': {
+//             'leds': 20,
+//             'led_spacing': 10,
+//             'colour1': [0,255,0],
+//             'colour2': [255,255,0],
+//             'colour3': [255,0,0],
+//         },
+//     },
+    'renderer': {
+        'name': 'rectangle',
+        'args': {
+            'centred': false,
+            'rounded': 5,
+            'colour': [255,255,255],
+        },
+    },
+//     'renderer': {
+//         'name': 'circle',
+//         'args': {
+//             'radius': 450,
+//             'colour': [255, 255, 255],
+//             'line_width': 3,
+//             'phase': 45
+//         },
+//     },
+    'log': false,
+    'band_norm': false
+}
